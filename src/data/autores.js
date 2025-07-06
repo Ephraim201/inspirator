@@ -1,31 +1,31 @@
 const autores = [
   {
     nombre: 'Albert Einstein',
-    imagen: "/img/albert.png"
+    imagen: "/inspirator/img/albert.png"
   },
   {
     nombre: 'El tio Paco',
-    imagen: "/img/paco.png"
+    imagen: "/inspirator/img/paco.png"
   },
   {
     nombre: 'El bicho',
-    imagen: "/img/bicho.png"
+    imagen: "/inspirator/img/bicho.png"
   },
   {
     nombre: 'Hannibal Lecter',
-    imagen: "/img/hanibal.png"
+    imagen: "/inspirator/img/hanibal.png"
   },
   {
     nombre: 'La Roca',
-    imagen: "/img/roca.png"
+    imagen: "/inspirator/img/roca.png"
   },
   {
     nombre: 'Messi',
-    imagen: "/img/messi.png"
+    imagen: "/inspirator/img/messi.png"
   },
   {
     nombre: 'Jordi Wild',
-    imagen: "/img/jordi.png"
+    imagen: "/inspirator/img/jordi.png"
   }
 ]
 
