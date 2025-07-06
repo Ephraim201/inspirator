@@ -26,7 +26,7 @@ function App() {
   const clickAudioRef = useRef(null)
 
   useEffect(() => {
-    clickAudioRef.current = new Audio('/sounds/fino.mp3')
+    clickAudioRef.current = new Audio('/inspirator/sounds/fino.mp3')
   }, [])
 
   const handleNuevaFrase = () => {
@@ -63,7 +63,7 @@ function App() {
       <div className="bg" ref={vantaRef}></div>
 
       <img
-        src="/logo2.png"
+        src="/inspirator/logo2.png"
         alt="Logo"
         className="logo"
       />
