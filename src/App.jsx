@@ -18,6 +18,7 @@ function generarContenidoAleatorio() {
 }
 
 function App() {
+
   const vantaRef = useRef(null)
   const [vantaEffect, setVantaEffect] = useState(null)
 
