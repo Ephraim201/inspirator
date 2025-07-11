@@ -84,18 +84,6 @@ const frases = [
   {
     texto: "Mi género literario favorito es el chisme"
   }
-,
-  {
-    texto: "El mundo está hecho un 80 porciento de agua, por lo tanto tiene que llamarse por lo que más tiene, retrasados"
-  }
-,
-{
-    texto: "De tantos idiomas que hay en el mundo, y decides hablar retrasado"
-  }
-,
-{
-    texto: "Prefiero que un amigo me llamen gay a qué un gay me llame amigo"
-  }
 ]
 
 export default frases
